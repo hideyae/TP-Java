@@ -6,46 +6,33 @@ TP-Java
 ├── tp1/
 │   ├── 1.Input-Output/
 │   │   ├── SommeDeuxEntiers.java
-│   │   ├── SommeDeuxEntiers.class
 │   │   ├── AireCercle.java
-│   │   ├── AireCercle.class
 │   │   ├── ConversionCelsiusFahrenheit.java
-│   │   ├── ConversionCelsiusFahrenheit.class
-│   │   ├── IMC.java
-│   │   └── IMC.class
+│   │   └── IMC.java
 │   │
 │   ├── 2.Conditions/
 │   │   ├── PairImpair.java
-│   │   ├── PairImpair.class
 │   │   ├── MaxTroisNombres.java
-│   │   ├── MaxTroisNombres.class
 │   │   ├── BaremeNote.java
-│   │   ├── BaremeNote.class
 │   │   ├── AnneeBissextile.java
-│   │   ├── AnneeBissextile.class
-│   │   ├── Triangle.java
-│   │   └── Triangle.class
+│   │   └── Triangle.java
 │   │
 │   └── 3.Loops/
 │       ├── TableMultiplication.java
-│       ├── TableMultiplication.class
 │       ├── Factorielle.java
-│       ├── Factorielle.class
 │       ├── Somme1n.java
-│       ├── Somme1n.class
 │       ├── TestDePrimalite.java
-│       ├── TestDePrimalite.class
 │       ├── Fibonacci.java
-│       ├── Fibonacci.class
-│       ├── Collatz.java
-│       └── Collatz.class
+│       └── Collatz.java
+├── tp2/
+├── test
+│   └── SommeDeuxEntiersTest.java
 │
-└── tp2/
-│
+├── .github/
+│   └── workflows/
+│       └── java-ci.yml
 ├── Hello.java
-├── Hello.class
 └── README.md
-
 ```
 
 ---
