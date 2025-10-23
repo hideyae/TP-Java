@@ -1,4 +1,3 @@
-package tp1.Loops;
 import java.util.Scanner;
 
 public class Factorielle {
@@ -12,6 +11,7 @@ public class Factorielle {
             fact *= i;
         }
         System.out.println(n + "! = " + fact);
+        sc.close();
     }
 }
 

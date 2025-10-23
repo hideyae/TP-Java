@@ -12,5 +12,6 @@ public class AnneeBissextile {
             System.out.println("Bissextile");
         else
             System.out.println("Non bissextile");
+        sc.close();
     }
 }

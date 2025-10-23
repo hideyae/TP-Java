@@ -9,5 +9,6 @@ public class Imc {
         double taille = sc.nextDouble();
         double imc = masse / (taille * taille);
         System.out.printf("IMC = %.2f%n", imc);
+        sc.close();
     }
 }

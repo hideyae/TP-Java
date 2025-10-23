@@ -7,5 +7,6 @@ public class Fahrenheit {
         double c = sc.nextDouble();
         double f = c * 9 / 5 + 32;
         System.out.println("Température en °F = " + f);
+        sc.close();
     }
 }

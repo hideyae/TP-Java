@@ -1,1 +1,114 @@
-# TP Java
+# TP1 – Entrées / Sorties, Conditions, Boucles (Java)
+
+##  Structure du projet
+```
+TP-Java
+├── tp1/
+│   ├── 1.Input-Output/
+│   │   ├── SommeDeuxEntiers.java
+│   │   ├── SommeDeuxEntiers.class
+│   │   ├── AireCercle.java
+│   │   ├── AireCercle.class
+│   │   ├── ConversionCelsiusFahrenheit.java
+│   │   ├── ConversionCelsiusFahrenheit.class
+│   │   ├── IMC.java
+│   │   └── IMC.class
+│   │
+│   ├── 2.Conditions/
+│   │   ├── PairImpair.java
+│   │   ├── PairImpair.class
+│   │   ├── MaxTroisNombres.java
+│   │   ├── MaxTroisNombres.class
+│   │   ├── BaremeNote.java
+│   │   ├── BaremeNote.class
+│   │   ├── AnneeBissextile.java
+│   │   ├── AnneeBissextile.class
+│   │   ├── Triangle.java
+│   │   └── Triangle.class
+│   │
+│   └── 3.Loops/
+│       ├── TableMultiplication.java
+│       ├── TableMultiplication.class
+│       ├── Factorielle.java
+│       ├── Factorielle.class
+│       ├── Somme1n.java
+│       ├── Somme1n.class
+│       ├── TestDePrimalite.java
+│       ├── TestDePrimalite.class
+│       ├── Fibonacci.java
+│       ├── Fibonacci.class
+│       ├── Collatz.java
+│       └── Collatz.class
+│
+└── tp2/
+│
+├── Hello.java
+├── Hello.class
+└── README.md
+
+```
+
+---
+
+## Contenu du TP
+
+###  Partie 1 – Entrées / Sorties
+- SommeDeuxEntiers.java : calcule la somme de deux entiers
+- AireCercle.java : calcule l’aire d’un cercle
+- ConversionCelsiusFahrenheit.java : convertit une température
+- IMC.java : calcule l’indice de masse corporelle
+
+###  Partie 2 – Conditions
+- PairImpair.java : vérifie si un nombre est pair ou impair
+- MaxTroisNombres.java : trouve le maximum entre trois nombres
+- BaremeNote.java : affiche la mention selon la note
+- AnneeBissextile.java : détermine si une année est bissextile
+- Triangle.java : vérifie le type d’un triangle
+
+###  Partie 3 – Boucles
+- TableMultiplication.java : affiche la table d’un nombre
+- Factorielle.java : calcule la factorielle d’un entier
+- Somme1n.java : calcule la somme des n premiers entiers
+- TestDePrimalite.java : teste si un nombre est premier
+- Fibonacci.java : affiche la suite de Fibonacci
+- Collatz.java : génère la suite de Collatz
+
+---
+
+## Compilation et exécution
+
+# Se placer dans le projet
+cd tp-java
+
+Exemple: le programme Fibonacci
+
+# Compiler le programme
+javac tp1/loops/Fibonacci.java
+
+# Exécuter le programme
+java tp1/loops/Fibonacci
+
+
+---
+
+##  Outils utilisés
+
+- Langage :Java 25
+- Environnement : Ubuntu / Terminal
+- Éditeur : VS Code
+- Système de build : javac / java
+
+---
+
+##  Objectif du TP
+Ce TP a pour but de manipuler les notions de base du langage Java :
+- Lecture et affichage de données (Entrées/Sorties)
+- Structures conditionnelles (`if`, `else if`, `switch`)
+- Boucles (`for`, `while`, `do...while`)
+- Organisation du code en plusieurs fichiers
+
+---
+
+##  Auteur
+
+Nom : AIT CHEIKH Deyae

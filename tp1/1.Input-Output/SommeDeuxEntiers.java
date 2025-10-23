@@ -8,5 +8,6 @@ public class SommeDeuxEntiers {
         System.out.print("Entrez b : ");
         int b = sc.nextInt();
         System.out.println("Somme = " + (a + b));
+        sc.close();
     }
 }

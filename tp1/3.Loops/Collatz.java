@@ -1,4 +1,3 @@
-package tp1.Loops;
 import java.util.Scanner;
 
 public class Collatz {
@@ -17,6 +16,7 @@ public class Collatz {
             etapes++;
         }
         System.out.println("1");
-        System.out.println("Nombre d’étapes : " + etapes);
+        System.out.println("Nombre d'étapes : " + etapes);
+        sc.close();
     }
 }

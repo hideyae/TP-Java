@@ -1,4 +1,3 @@
-package tp1.Loops;
 import java.util.Scanner;
 
 public class Somme1n {
@@ -17,5 +16,6 @@ public class Somme1n {
             i++;
         }
         System.out.println("Somme (while) = " + sommeWhile);
+        sc.close();
     }
 }

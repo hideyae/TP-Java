@@ -20,5 +20,6 @@ public class Triangle {
         } else {
             System.out.println("Ce n’est pas un triangle valide.");
         }
+        sc.close();
     }
 }

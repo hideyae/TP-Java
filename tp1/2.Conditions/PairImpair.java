@@ -9,5 +9,6 @@ public class PairImpair {
             System.out.println("Pair");
         else
             System.out.println("Impair");
+        sc.close();
     }
 }

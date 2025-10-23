@@ -14,5 +14,6 @@ public class BaremeDeNote {
         else grade = 'F';
 
         System.out.println("Grade : " + grade);
+        sc.close();
     }
 }

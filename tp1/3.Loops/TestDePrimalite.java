@@ -1,4 +1,3 @@
-package tp1.Loops;
 import java.util.Scanner;
 
 public class TestDePrimalite {
@@ -12,6 +11,7 @@ public class TestDePrimalite {
             if (n % i == 0) estPremier = false;
         }
 
-        System.out.println(n + (estPremier ? " est premier" : " n’est pas premier"));
+        System.out.println(n + (estPremier ? " est premier" : " n'est pas premier"));
+        sc.close();
     }
 }

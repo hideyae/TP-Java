@@ -7,6 +7,7 @@ public class AireCercle {
         double r = sc.nextDouble();
         double aire = Math.PI * r * r;
         System.out.println("Aire = " + aire);
+        sc.close();
     }
 }
 

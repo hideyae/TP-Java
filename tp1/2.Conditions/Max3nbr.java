@@ -15,5 +15,6 @@ public class Max3nbr {
         if (c > max) max = c;
 
         System.out.println("Max = " + max);
+        sc.close();
     }
 }
